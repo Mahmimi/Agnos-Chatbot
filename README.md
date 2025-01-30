@@ -9,7 +9,7 @@ The chatbot uses the `gradio` library for developing chat UI. You can find it he
 
 🔗 [Hugging Face Space](https://huggingface.co/spaces/Jiranuwat/AgnosChatbot)
 
-![Hugging Face Capture](images\Chatbot_Banner.PNG)
+![Hugging Face Capture](images/Chatbot_Banner.PNG)
 
 ---
 
@@ -31,7 +31,7 @@ The first pipeline involves gathering data from the **Agnos healthcare forum**, 
 5. **Vector Store:** Store embeddings in **Qdrant**, an open-source vector database for efficient similarity search.
 
 ### Pipeline Diagram:
-![Data Collection Pipeline](images\pipeline1.PNG)
+![Data Collection Pipeline](images/pipeline1.PNG)
 
 ---
 
@@ -49,7 +49,7 @@ This pipeline handles user interactions and generates responses based on vector 
 7. **Conversation:** Display the chatbot’s response.
 
 ### Pipeline Diagram:
-![Implementation Pipeline](images\pipeline2.PNG)
+![Implementation Pipeline](images/pipeline2.PNG)
 
 ---
 
