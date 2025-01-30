@@ -7,7 +7,6 @@ pandas
 sentence-transformers 
 faiss 
 transformers
-sentence-transformers 
 faiss-cpu
 langchain
 langchain-huggingface
